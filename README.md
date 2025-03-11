@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to reach out to:
 
-- **Willie Conway** - [Email](Mailto:hire.willie.conway@gmail.com) ✉️
+- **Email** - [hire.willie.conway@gmail.com](Mailto:hire.willie.conway@gmail.com) 📧
 - **GitHub** - [https://github.com/Willie-Conway](https://github.com/Willie-Conway) 💼
 
 ---
