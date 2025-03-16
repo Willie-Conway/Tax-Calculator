@@ -2,6 +2,8 @@
 
 Welcome to the **Tax Calculator** project! This application helps users calculate their taxes based on different criteria. The goal of this project is to demonstrate how a simple tax calculation tool can be built using modern web technologies.
 
+ ![Tax Calculator](https://github.com/Willie-Conway/Tax-Calculator/blob/f3da706417fd139192f0797661736ad41d583cea/Screenshots/Tax%20Calculator.gif)
+
 ## 🚀 Features
 
 - **Tax Calculation**: Calculate taxes based on income and other financial details.
